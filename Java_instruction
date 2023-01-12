@@ -8,3 +8,5 @@
 #  Use Getter And Setter For Initilize Variable.It Provide Data Hiding.
 #  Always Define Base-Url Globally.
 #  Use Object Oriented Features For Reduce Your Effect And Make Your Application Roboust.
+#  Always use proper validtions for user input.
+
