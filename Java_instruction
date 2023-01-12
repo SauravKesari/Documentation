@@ -1,13 +1,14 @@
 #Instructions that someone should follow while writing Java Code
 ------------------------------------------------------------------
 #  If Multiple Developer Works On Same Project Always Use Proper Comments So Your Code Become Understandable For Other.
-#  Do Not Repeat Your Self... Means If There Is Some Line Of Code Which Frequntly Use In Your Project Then Insted Of Write It Each Time Make Function For It And Call It Every Time.
-#  Don't Use Nested Function Because It Takes More Time Than Regular Function So We Should Avoid It.
+#  Do Not Repeat Your Self... Means If There Is Some Line Of Code Which Frequntly Use In Your Project THen Insted Of Write It Each Time MAke Function For It And Call It Every Time.
+#  Don't use nested function because it takes more time than regular function so we should avoid it.
 #  Use Static Function Insted Of Regular One Beacause We Dont Call Static Functions Without Creating Instance Of That Class.
-#  Dont Use Exception Handling For Each Statments Beacause It Increse The Load On Server, So Use Only When It Is Necessary.
+#  Dont Use Exception Handling For Each Statments Beacause It Increse The Load On Server, So Use Only When It Is Necessory.
 #  Use Getter And Setter For Initilize Variable.It Provide Data Hiding.
 #  Always Define Base-Url Globally.
-#  Use Object Oriented Features For Reduce Your Effort And Make Your Application Roboust.
-#  Always Use Proper Validtions For User Input.
-#  Follow Appropriate Design Patterns.
+#  Use Object Oriented Features For Reduce Your Effort And Make Your Application Robust.
+#  Always use proper validtions for user input.
+#  follow appropriate design patterns.
+ 
 
