@@ -10,4 +10,5 @@
 #  Use Object Oriented Features For Reduce Your Effort And Make Your Application Roboust.
 #  Always Use Proper Validtions For User Input.
 #  Follow Appropriate Design Patterns.
+#  Always Use final keyword for making constant Variables and classes(Which will not be inherited by some other class).
 
